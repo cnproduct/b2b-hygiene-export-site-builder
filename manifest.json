@@ -1,0 +1,12 @@
+{
+  "name": "b2b-hygiene-export-site-builder",
+  "version": "1.0.0",
+  "description": "卫生用品(纸尿裤、经期裤、成人失禁垫、医用无纺布)出海独立站垂直构建与优化Skill，服务于leohygiene.com、shdhygiene.com、chinabaronhygiene.com等站点。",
+  "author": "cnproduct",
+  "license": "MIT",
+  "entry": "scripts/build_hygiene_site.py",
+  "tools": [
+    "build_hygiene_site.py"
+  ],
+  "standards_checked_at": "2026-11-08"
+}
